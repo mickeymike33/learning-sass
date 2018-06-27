@@ -1,4 +1,6 @@
 # learning-sass
 
 
-On va tester un petit pull request ;) 
+## Pourquoi apprendre le sass ?
+
+### Les objectifs du sass
